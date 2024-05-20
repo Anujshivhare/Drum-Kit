@@ -1,8 +1,43 @@
-# React + Vite
+# Drum Kit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Drum Kit](https://i.ibb.co/mJ8XxVj/Drum-Kit.png)
 
-Currently, two official plugins are available:
+Drum Kit is a simple website built using React that allows users to play multiple sounds by clicking on them or pressing their corresponding keys on the keyboard.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Play Sounds:** Click on the drum pads or press the corresponding keys on your keyboard to play various sounds.
+- **Multiple Sounds:** Enjoy a variety of drum sounds, each mapped to a specific key or pad.
+- **User-Friendly Interface:** Intuitive design for easy navigation and enjoyable drumming experience.
+
+## Technologies Used
+
+- React
+
+## Getting Started
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Anujshivhare/Drum-Kit.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Drum-Kit
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+
+    ```bash
+    npm start
+    ```
+
+5. Open your browser and visit [http://localhost:5173](http://localhost:5173) to start playing the Drum Kit.
