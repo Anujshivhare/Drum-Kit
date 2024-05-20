@@ -37,7 +37,7 @@ Drum Kit is a simple website built using React that allows users to play multipl
 4. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 5. Open your browser and visit [http://localhost:5173](http://localhost:5173) to start playing the Drum Kit.
